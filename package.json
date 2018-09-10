@@ -1,7 +1,7 @@
 {
   "name": "web-1-test",
   "version": "1.0.0",
-  "description": "",
+  "description": "Kovalchuk Dmitriy",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,6 +11,9 @@
   "license": "ISC",
   "dependencies": {
     "gulp": "^4.0.0",
+    "normalize.css": "^8.0.0",
+    "vue": "^2.5.17",
     "webpack": "^4.17.2"
-  }
+  },
+  "devDependencies": {}
 }
